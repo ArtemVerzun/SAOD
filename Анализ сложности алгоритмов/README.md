@@ -8,3 +8,5 @@
 * Подсчитать количество элементов с четными значениями O(1)
 
 ### Результат
+![Рисунок1](https://github.com/ArtemVerzun/SAOD/assets/143192676/5bf92ee4-4b36-4e63-83bb-98a4a88828c8)\
+![Рисунок2](https://github.com/ArtemVerzun/SAOD/assets/143192676/52139ffc-7799-4334-b2c7-7fc9399226c6)
